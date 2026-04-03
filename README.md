@@ -1,16 +1,58 @@
-## Hi there 👋
+<!-- bannière / en-tête -->
+# 👋 Je m'appelle Fanny et je suis un golem d'idées ambitieuses et de café.
 
-<!--
-**fannymfortier/fannymfortier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiante en intégration multimédia** qui essaie des affaires, et des fois ça marche. 
 
-Here are some ideas to get you started:
+📍 Montréal · 🎨 Designer & Dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Compétences
+
+**Web**
+![HTML](https://img.shields.io/badge/HTML-%23993C1D?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23185FA5?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23854F0B?style=flat&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23534AB7?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-%23185FA5?style=flat&logo=react&logoColor=white)
+
+**Design**
+![Figma](https://img.shields.io/badge/Figma-%23993556?style=flat&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23854F0B?style=flat&logo=adobeillustrator&logoColor=white)
+
+**Jeux Vidéos**
+![C#](https://img.shields.io/badge/C%23-%23534AB7?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%232C2C2A?style=flat&logo=unity&logoColor=white)
+
+---
+
+## 🌱 Projets récents
+
+**[Site de métallurgie](https://fannymfortier.github.io/NOM_DU_REPO)** — Site vitrine développé dans le cadre de mes études.
+`HTML · CSS · JavaScript`
+
+*(d'autres projets à venir)*
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [Projet A](https://github.com/fannymfortier/projet-a) | Description courte | HTML · CSS |
+| [Projet B](https://github.com/fannymfortier/projet-b) | Description courte | HTML · CSS · JS |
+| [Projet C](https://github.com/fannymfortier/projet-c) | Description courte | Figma |
+
+---
+
+## ✨ Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=fannymfortier&show_icons=true&theme=rose_pine&hide_border=true&locale=fr)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=fannymfortier&layout=compact&theme=rose_pine&hide_border=true&locale=fr)
+
+![Visiteurs](https://komarev.com/ghpvc/?username=fannymfortier&color=D4537E&style=flat)
+
+---
+
+## ⚔️ Combat actuel
+
+Lock in sur React.
+
+---
+*Crédit à mon chat qui pile jamais sur des touches de clavier trop graves 🐾*
