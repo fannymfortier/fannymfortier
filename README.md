@@ -38,7 +38,7 @@
 ## ✨ Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fannymfortier&theme=github)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=fannymfortier&layout=compact&theme=rose_pine&hide_border=true&locale=fr)
+![Langages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fannymfortier&theme=github)
 
 ![Visiteurs](https://komarev.com/ghpvc/?username=fannymfortier&color=D4537E&style=flat)
 
