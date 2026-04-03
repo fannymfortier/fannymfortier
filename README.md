@@ -15,6 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23854F0B?style=flat&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23534AB7?style=flat&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23185FA5?style=flat&logo=react&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23185FA5?style=flat&logo=wordpress&logoColor=white)
 
 **Design**
 ![Figma](https://img.shields.io/badge/Figma-%23993556?style=flat&logo=figma&logoColor=white)
