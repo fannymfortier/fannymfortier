@@ -28,7 +28,7 @@
 
 ## 🌱 Projets récents
 
-**[Site de Létallurgie](https://fannymfortier.github.io/NOM_DU_REPO)** — Site vitrine pour notre projet de jeu vidéo en équipe.
+**[Site de Létallurgie](https://582-4pa.github.io/h26-tp1-fanny-olivier/)** — Site vitrine pour notre projet de jeu vidéo en équipe.
 `HTML · CSS · React`
 
 *(d'autres projets à venir)*
