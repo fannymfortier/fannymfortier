@@ -1,5 +1,5 @@
 <!-- bannière / en-tête -->
-# 👋 Je m'appelle Fanny et je suis un golem d'idées ambitieuses et de café.
+# 👋 Je m'appelle Fanny et je suis un golem d'idées et de café.
 
 **Étudiante en intégration multimédia** qui essaie des affaires, et des fois ça marche. 
 
