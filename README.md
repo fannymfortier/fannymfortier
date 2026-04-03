@@ -28,16 +28,10 @@
 
 ## 🌱 Projets récents
 
-**[Site de métallurgie](https://fannymfortier.github.io/NOM_DU_REPO)** — Site vitrine développé dans le cadre de mes études.
-`HTML · CSS · JavaScript`
+**[Site de Létallurgie](https://fannymfortier.github.io/NOM_DU_REPO)** — Site vitrine pour notre projet de jeu vidéo en équipe.
+`HTML · CSS · React`
 
 *(d'autres projets à venir)*
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [Projet A](https://github.com/fannymfortier/projet-a) | Description courte | HTML · CSS |
-| [Projet B](https://github.com/fannymfortier/projet-b) | Description courte | HTML · CSS · JS |
-| [Projet C](https://github.com/fannymfortier/projet-c) | Description courte | Figma |
 
 ---
 
